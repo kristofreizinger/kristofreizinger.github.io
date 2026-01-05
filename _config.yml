@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kristóf Reizinger's Website"
+title                    : "The Website is under construction, please, return later." # "Kristóf Reizinger's Website"
 title_separator          : "-"
 name                     : &name "Kristóf Reizinger"
 description              : &description "PhD student in Finance at the VGSF"
