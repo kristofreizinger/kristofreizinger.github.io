@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Casual Causality"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<!--
 I am a final-year Ph.D. student in the Robust Machine Learning group at the Max Planck Institute of Intelligent Systems in Tübingen, supervised by Wieland Brendel, Ferenc Huszár, Matthias Bethge, and Bernhard Schölkopf. I am part of the [ELLIS](https://ellis.eu/phd-postdoc) and [IMPRS-IS](http://imprs.is.mpg.de/) programs. I have also spent time at the [Vector Institute](https://x.com/VectorInst/status/1859689575288860992) and at the University of Cambridge.
 
 **I am actively looking for postdoctoral and junior group leader positions, starting in early 2026.**
@@ -24,4 +24,6 @@ I aim to help close this gap, by focusing on:
 I have done both my M.Sc. and B.Sc. at the Budapest University of Technology in electrical engineering and specialized in control engineering and intelligent systems. In my free time, I enjoy being outdoors and often bring my [camera](https://500px.com/p/rpatrik96) with me.
 
 {% include recent-papers.html %}
+
+-->
 
