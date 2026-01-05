@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Casual Causality"
+title                    : "Kristóf Reizinger's Website"
 title_separator          : "-"
-name                     : &name "Patrik Reizinger"
-description              : &description "PhD student in causal representation learning @IMPRS-IS and @ELLIS"
-url                      : https://rpatrik96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kristóf Reizinger"
+description              : &description "PhD student in Finance at the VGSF"
+url                      : https://kristofreizinger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rpatrik96/rpatrik06.github.io"
+repository               : "kristofreizinger/kristofreizinger.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Patrik Reizinger"
+  name             : "Kristóf Reizinger"
   avatar           : "profile.png"
   bio              : "PhD student in causal representation learning @IMPRS-IS and @ELLIS"
-  location         : "Tübingen, Germany"
-  employer         : "MPI-IS and ELLIS Institute Tübingen"
+  location         : "Vienna, Austria"
+  employer         : "Vienna University of Economics and Business and Vienna Graduate School of Finance"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=zIT0fdIAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=zIT0fdIAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Patrik-Reizinger"
+  researchgate     :  #"https://www.researchgate.net/profile/Patrik-Reizinger"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,21 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rpatrik96"
+  github           : "kristof-reizinger"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "patrik-reizinger"
-  orcid            : "https://orcid.org/0000-0001-9861-0293"
+  linkedin         : "https://www.linkedin.com/in/krist%C3%B3f-reizinger-58195013b/"
+  orcid            : #"https://orcid.org/0000-0001-9861-0293"
   # paypal           : "rpatrik17"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 16912032/casualcausality
+  stackoverflow    : #16912032/casualcausality
   steam            :
   tumblr           :
-  twitter          : "rpatrik96"
+  twitter          : #"rpatrik96"
   vine             :
   weibo            :
   xing             :
